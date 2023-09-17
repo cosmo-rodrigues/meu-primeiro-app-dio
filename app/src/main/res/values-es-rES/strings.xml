@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi primera aplicación Dio</string>
+    <string name="home_tile">¡Hola Mundo!</string>
+    <string name="home_subtitle">Esta es mi primera aplicación nativa con Kotlin</string>
+    <string name="home_tip">¡Disfrútala!</string>
+</resources>
